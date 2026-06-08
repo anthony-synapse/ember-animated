@@ -62,5 +62,6 @@
     },
     "npm": false
   },
+  "name": "ember-animated",
   "version": "2.2.0"
 }
